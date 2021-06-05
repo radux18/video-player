@@ -1,0 +1,91 @@
+[
+  {
+    "label": "media/1.mp4",
+    "language": "ro_RO",
+    "cues": [
+      {
+        "startTime": 0,
+        "endTime": 2.5,
+        "text": "Subtitrare pentru media/1.mp4"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 7,
+        "text": "Acest avion zboara..."
+      },
+      {
+        "startTime": 7,
+        "endTime": 18,
+        "text": "...pana intra in nori si dispare"
+      }
+    ]
+  },
+  {
+    "label": "media/2.mp4",
+    "language": "ro_RO",
+    "cues": [
+      {
+        "startTime": 0,
+        "endTime": 2.5,
+        "text": "Subtitrare pentru media/2.mp4"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 7,
+        "text": "O albinuta harnica :)"
+      },
+      {
+        "startTime": 7,
+        "endTime": 18,
+        "text": "Da din aripi si picioare"
+      }
+    ]
+  },
+  {
+    "label": "media/3.mp4",
+    "language": "ro_RO",
+    "cues": [
+      {
+        "startTime": 0,
+        "endTime": 2.5,
+        "text": "Subtitrare pentru media/3.mp4"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 7,
+        "text": "Berea in sesiune este viataaa"
+      },
+      {
+        "startTime": 7,
+        "endTime": 18,
+        "text": "Daca e si in slow-motion e perfecta"
+      }
+    ]
+  },
+  {
+    "label": "media/4.mp4",
+    "language": "ro_RO",
+    "cues": [
+      {
+        "startTime": 0,
+        "endTime": 2.5,
+        "text": "Subtitrare pentru media/4.mp4"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 7,
+        "text": "Mai stiti albinuta si bere din episoadele anterioare?"
+      },
+      {
+        "startTime": 7,
+        "endTime": 9,
+        "text": "Ce albinuta, ce bere??"
+      },
+      {
+        "startTime": 9,
+        "endTime": 11,
+        "text": "Paiiii aleaaa, stii tuuuuu"
+      }
+    ]
+  }
+]
